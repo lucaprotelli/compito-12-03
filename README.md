@@ -1,6 +1,6 @@
 # Compito informatica per il 12.03.2024
 
-Il lavoro non è ancora finito, ma è in corso di sviluppo 🛠️.
+⚠️⚠️⚠️ Il lavoro non è ancora finito, ma è in corso di sviluppo 🛠️.
 
 ## 📖 Table of Contents
 
@@ -40,7 +40,3 @@ All commands are run from the root of the project, from a terminal:
 ## 📝 Licens
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-```
