@@ -1,6 +1,15 @@
-# React + Vite
+# Compito informatica per il 12.03.2024
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Il lavoro non è ancora finito, ma è in corso di sviluppo 🛠️.
+
+## 📖 Table of Contents
+
+-   [Compito informatica per il 12.03.2024](#compito-informatica-per-il-12032024)
+    -   [📖 Table of Contents](#-table-of-contents)
+    -   [📦 Feature](#-feature)
+    -   [🚀 Getting starte](#-getting-starte)
+    -   [🧞 Commands](#-commands)
+    -   [📝 Licens](#-licens)
 
 ## 📦 Feature
 
@@ -28,6 +37,10 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm install` | Installs dependencies                       |
 | `pnpm run dev` | Starts local dev server at `localhost:5173` |
 
-## 👀 Want to learn more?
+## 📝 Licens
 
-Feel free to check [our documentation](https://vitejs.dev/guide/)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+```
+
+```
