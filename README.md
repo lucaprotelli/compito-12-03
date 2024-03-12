@@ -1,6 +1,6 @@
 # Compito informatica per il 12.03.2024
 
-`⚠️ il lavoro non è ancora finito, ma è in fase di sviluppo 🛠️.`
+⚠️ `il lavoro non è ancora finito, ma è in fase di sviluppo` 🛠️.
 
 ## 📖 Table of Contents
 
