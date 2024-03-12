@@ -1,6 +1,8 @@
 # Compito informatica per il 12.03.2024
 
-⚠️ `il lavoro non è ancora finito, ma è in fase di sviluppo` 🛠️.
+⚠️ `il lavoro non è ancora finito, ma è in fase di sviluppo` 🛠️
+
+❗️ `Il valore dell'input non viene passato correttamente nella funzione e quindi non riesco a metterlo come testo al componente Checkboxe.jsx per stamparlo. `
 
 ## 📖 Table of Contents
 
